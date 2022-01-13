@@ -1,4 +1,7 @@
-### HABILIDADES
+#Hola mi nombre es Robert
+###Dessarrollador Web
+
+## HABILIDADES
 
 [![CSS](https://img.shields.io/badge/CSS-3DDC84/?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-0095D5?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
@@ -11,3 +14,10 @@
 [![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-339933?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+## Contacto
+
+[ ![Correo electrónico ](https://img.shields.io/badge/correo-robertquispehuacho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:robertquispehuacho@gmail.com)
+</br>
+[ ![Numero ](https://img.shields.io/badge/Número-919133937-D14836?style=for-the-badge&logo=NBA&logoColor=white&labelColor=101010)](mailto:robertquispehuacho@gmail.com)
+</br>
