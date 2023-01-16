@@ -19,5 +19,3 @@
 
 [ ![Correo electrónico ](https://img.shields.io/badge/correo-robertquispehuacho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:robertquispehuacho@gmail.com)
 </br>
-[ ![Numero ](https://img.shields.io/badge/Número-994056671-D14836?style=for-the-badge&logo=NBA&logoColor=white&labelColor=101010)](https://wa.me/51994056671)
-</br>
