@@ -14,6 +14,7 @@
 [![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-339933?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-232F3E?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)]()
 
 ## Contacto
 
