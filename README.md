@@ -22,6 +22,7 @@
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/google-cloud-square.png" title="Google Cloud Plataform" alt="Google Cloud Plataform" width="60" height="60"/>&nbsp;
 
 ## Contacto
-
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rodolfo-robert-quispe-huacho/)
+&nbsp;
 [ ![Correo electrónico ](https://img.shields.io/badge/correo-robertquispehuacho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:robertquispehuacho@gmail.com)
 </br>
