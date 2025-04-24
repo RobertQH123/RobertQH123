@@ -15,7 +15,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Nodejs&logoColor=white)]()
 [![React js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]()
-
 </br>
   <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_numpy.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_pandas.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
