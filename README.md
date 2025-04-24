@@ -29,6 +29,6 @@
 
 ### 🌐 Conéctate conmigo
 
-- LinkedIn: [in/rodolfo-robert-quispe-huacho](https://www.linkedin.com/in/rodolfo-robert-quispe-huacho)
+- Linkedin: [in/rodolfo-robert-quispe-huacho](https://www.linkedin.com/in/rodolfo-robert-quispe-huacho)
 
 </br>
