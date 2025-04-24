@@ -6,7 +6,7 @@
 ### Tecnologias
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
-[![tailwind](https://img.shields.io/badge/ailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=GREY)]()
+[![tailwind](https://img.shields.io/badge/tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=GREY)]()
 [![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=whiteblue&labelColor=blue)]()
 [![javaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
