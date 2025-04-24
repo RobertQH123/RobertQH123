@@ -1,7 +1,9 @@
-# Hola mi nombre es Robert
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Hola%F0%9F%91%8B+mi+nombre+es+robert)](https://git.io/typing-svg)
 ### Desarrollador de software
 
-## Tecnologias
+---
+
+### Tecnologias
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![tailwind](https://img.shields.io/badge/ailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=GREY)]()
@@ -22,8 +24,11 @@
   <img src="https://25322853.fs1.hubspotusercontent-eu1.net/hub/25322853/hubfs/STAGIL_January2022/Images/jira-software-logo-jira-logo-hd-png.png?width=360&name=jira-software-logo-jira-logo-hd-png.png" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/google-cloud-square.png" title="Google Cloud Plataform" alt="Google Cloud Plataform" width="60" height="60"/>&nbsp;
 
-## Contacto
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rodolfo-robert-quispe-huacho/)
-&nbsp;
-[ ![Correo electrónico ](https://img.shields.io/badge/correo-robertquispehuacho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:robertquispehuacho@gmail.com)
+
+---
+
+### 🌐 Conéctate conmigo
+
+- LinkedIn: [in/rodolfo-robert-quispe-huacho](https://www.linkedin.com/in/rodolfo-robert-quispe-huacho)
+
 </br>
