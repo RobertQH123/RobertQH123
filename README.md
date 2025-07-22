@@ -25,7 +25,10 @@
 <a href="https://github.com/RobertQH123"> <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/power-bi/neo-power-bi.svg" title="Power-bi" alt="Power-bi" width="60" height="60"/> </a>&nbsp;
 <a href="https://github.com/RobertQH123"> <img src="https://25322853.fs1.hubspotusercontent-eu1.net/hub/25322853/hubfs/STAGIL_January2022/Images/jira-software-logo-jira-logo-hd-png.png?width=360&name=jira-software-logo-jira-logo-hd-png.png" title="Jira" alt="Jira" width="60" height="60"/> </a>&nbsp;
 <a href="https://github.com/RobertQH123"> <img src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png?raw=true" title="Google Cloud Plataform" alt="Google Cloud Plataform" width="60" height="60"/> </a>&nbsp;
- 
+
+
+[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertQH123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
