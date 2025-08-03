@@ -27,7 +27,7 @@
 <a href="https://github.com/RobertQH123"> <img src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png?raw=true" title="Google Cloud Plataform" alt="Google Cloud Plataform" width="60" height="60"/> </a>&nbsp;
 
 
-[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertQH123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertQH123&layout=compact&theme=dark)](https://github.com/RobertQH123)
 
 
 ---
